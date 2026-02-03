@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Materials](https://materials4981.netlify.app/)
 
-- 🌱 I’m currently learning **Spring Cloud, Spring Security(JWT).**
+- 🌱 I’m currently learning **NodeJS, ExpressJS**
 
 - 📫 How to reach me **sanik4144@gmail.com**
 
