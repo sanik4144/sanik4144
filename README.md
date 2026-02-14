@@ -1,4 +1,4 @@
-<table>
+<table style = "border: none;">
   <!-- HEADER ROW -->
   <tr>
     <td colspan="2" align="center">
@@ -15,7 +15,7 @@
       <ul>
         <li>🔭 I’m currently working on <a href="https://materials4981.netlify.app/">Materials</a></li>
         <li>🌱 I’m currently learning <b>NodeJS, ExpressJS</b></li>
-        <li>📫 How to reach me <b>sanik4144@gmail.com</b></li>
+        <li>📫 Mail me: <b>sanik4144@gmail.com</b></li>
       </ul>
       <!-- CONNECT -->
       <h3 align="left">Connect with me:</h3>
@@ -48,22 +48,17 @@
     <!-- RIGHT COLUMN -->
     <td width="45%" valign="top">
       <h3>🚀 Projects</h3>
-      <b>📦 Materials</b><br/>
-      Educational materials platform  
-      🔗 <a href="https://materials4981.netlify.app/">Live</a> |
-      <a href="#">GitHub</a>
+      <!-- PROJECT 1 -->
+      <b>📦 Materials</b> 🔗 <a href="https://materials4981.netlify.app/">Live</a> <br/>
+      <i>MongoDB ExpressJS ReactJS NodeJS NPM Git</i> <br/>
+      A single vendor ecommerce site that I have been building with my teammate for a client
       <br/><br/>
-      <b>🛒 E-Commerce Backend</b><br/>
-      Spring Boot REST API with JWT & MySQL  
-      🔗 <a href="#">GitHub</a>
+      <!-- PROJECT 2 -->
+      <b>🛒 Product Inventory System</b> 🔗 <a href="https://product-inventory-system-frontend.vercel.app/">Live</a> <br/> 
+      <i>React Spring-Boot Spring-Security Spring-Data-JPA MySQL Maven Git</i> <br>
+      An inventory management system supporting product creation, tracking, updates, and deletion.
+      Added Spring Security for authentication & authorization and implemented full CRUD REST APIs.
       <br/><br/>
-      <b>🔐 Authentication API</b><br/>
-      Node.js + Express + JWT-based authentication  
-      🔗 <a href="#">GitHub</a>
-      <br/><br/>
-      <b>📊 REST API Practice</b><br/>
-      Clean backend APIs with validation & error handling  
-      🔗 <a href="#">GitHub</a>
     </td>
   </tr>
 </table>
