@@ -3,7 +3,7 @@
   <tr>
     <td colspan="2" align="center">
       <h1>Hi 👋, I'm Saifullah Anik</h1>
-      <h3>A passionate BACKEND developer. [Spring Boot, ExpressJS]</h3>
+      <h3>A passionate BACKEND developer. [NodeJS, ExpressJS]</h3>
     </td>
   </tr>
 
@@ -13,7 +13,7 @@
     <td width="55%" valign="top">
       <!-- ABOUT -->
       <ul>
-        <li>🔭 I’m currently working on <a href="https://materials4981.netlify.app/">Materials</a></li>
+        <li>🔭 I’m currently working on Resume Analyzer</a></li>
         <li>🌱 I’m currently learning <b>NodeJS, ExpressJS</b></li>
         <li>📫 Mail me: <b>sanik4144@gmail.com</b></li>
       </ul>
