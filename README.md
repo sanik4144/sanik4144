@@ -13,7 +13,7 @@
     <td width="55%" valign="top">
       <!-- ABOUT -->
       <ul>
-        <li>🔭 I’m currently working on Resume Analyzer</a></li>
+        <li>🔭 I’m currently working on an E commerce Platform</a></li>
         <li>🌱 I’m currently learning <b>NodeJS, ExpressJS</b></li>
         <li>📫 Mail me: <b>sanik4144@gmail.com</b></li>
       </ul>
