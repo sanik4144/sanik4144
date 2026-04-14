@@ -49,15 +49,14 @@
     <td width="45%" valign="top">
       <h3>🚀 Projects</h3>
       <!-- PROJECT 1 -->
-      <b>📦 Materials</b> 🔗 <a href="https://materials4981.netlify.app/">Live</a> <br/>
+      <b>📦 Materials</b> 🔗 <a target="_blank" href="https://materials4981.netlify.app/">Live</a> <br/>
       <i>MongoDB ExpressJS ReactJS NodeJS NPM Git</i> <br/>
       A single vendor ecommerce site that I have been building with my teammate for a client
       <br/><br/>
       <!-- PROJECT 2 -->
-      <b>🛒 Product Inventory System</b> 🔗 <a href="https://product-inventory-system-frontend.vercel.app/">Live</a> <br/> 
-      <i>React Spring-Boot Spring-Security Spring-Data-JPA MySQL Maven Git</i> <br>
-      An inventory management system supporting product creation, tracking, updates, and deletion.
-      Added Spring Security for authentication & authorization and implemented full CRUD REST APIs.
+      <b>📄 Resume Analyzer - Smart CV Review Tool</b> 🔗 <a target="_blank" href="https://resume-analyzer-frontend-opal.vercel.app/">Live</a> <br/> 
+      <i>GenAI ExpressJS ReactJS NodeJS NPM Git</i> <br>
+      A powerful full-stack web app that instantly analyzes uploaded resumes (PDF) and transforms them into actionable insights. It extracts key information, evaluates content using AI & provides smart feedback, skill insights, and improvement suggestions to help optimize resumes for job application.
       <br/><br/>
     </td>
   </tr>
