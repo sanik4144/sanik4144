@@ -3,13 +3,9 @@
   <tr>
     <td colspan="2" align="center">
       <h1>Hi 👋, I'm Saifullah Anik</h1>
-      <h3>A passionate BACKEND developer. [NodeJS, ExpressJS]</h3>
-      <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=sanik4144&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
-      <img src="https://img.shields.io/github/followers/sanik4144?label=Followers&style=for-the-badge&color=764ba2&logoColor=white" alt="GitHub Followers" />
-    </p>
     </td>
   </tr>
+
 
   <!-- CONTENT ROW -->
   <tr>
@@ -51,17 +47,11 @@
     </td>
     <!-- RIGHT COLUMN -->
     <td width="45%" valign="top">
-      <h3>🚀 Projects</h3>
-      <!-- PROJECT 1 -->
-      <b>📦 Materials</b> 🔗 <a target="_blank" href="https://materials4981.netlify.app/">Live</a> <br/>
-      <i>MongoDB ExpressJS ReactJS NodeJS NPM Git</i> <br/>
-      A single vendor ecommerce site that I have been building with my teammate for a client
-      <br/><br/>
-      <!-- PROJECT 2 -->
-      <b>📄 Resume Analyzer - Smart CV Review Tool</b> 🔗 <a target="_blank" href="https://resume-analyzer-frontend-opal.vercel.app/">Live</a> <br/> 
-      <i>GenAI ExpressJS ReactJS NodeJS NPM Git</i> <br>
-      A powerful full-stack web app that instantly analyzes uploaded resumes (PDF) and transforms them into actionable insights. It extracts key information, evaluates content using AI & provides smart feedback, skill insights, and improvement suggestions to help optimize resumes for job application.
-      <br/><br/>
+      <img src="code.gif" width="500px" />
+      <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=sanik4144&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
+      <img src="https://img.shields.io/github/followers/sanik4144?label=Followers&style=for-the-badge&color=764ba2&logoColor=white" alt="GitHub Followers" />
+    </p>
     </td>
   </tr>
 </table>
