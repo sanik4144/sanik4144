@@ -62,4 +62,11 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan=2>
+      <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanik4144&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+      </p>
+    </td>
+  </tr>
 </table>
