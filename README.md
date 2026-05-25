@@ -54,4 +54,12 @@
     </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center"">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sanik4144&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanik4144&theme=tokyonight" />
+      </p>
+    </td>
+  </tr>
 </table>
