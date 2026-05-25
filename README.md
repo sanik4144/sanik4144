@@ -4,6 +4,10 @@
     <td colspan="2" align="center">
       <h1>Hi 👋, I'm Saifullah Anik</h1>
       <h3>A passionate BACKEND developer. [NodeJS, ExpressJS]</h3>
+      <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=sanik4144&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
+      <img src="https://img.shields.io/github/followers/sanik4144?label=Followers&style=for-the-badge&color=764ba2&logoColor=white" alt="GitHub Followers" />
+    </p>
     </td>
   </tr>
 
